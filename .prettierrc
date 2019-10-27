@@ -1,0 +1,7 @@
+{
+  "ignorePath": ".prettierignore",
+
+  "semi": true,
+
+  "singleQuote": true
+}

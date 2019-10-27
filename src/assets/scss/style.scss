@@ -1,0 +1,45 @@
+.nav-logo {
+  border-radius: 20%;
+  background: #fff;
+  padding: 5px;
+  max-height: 2.5rem !important;
+}
+
+.icon {
+  font-size: 25px;
+}
+
+.control.has-icons-left .icon,
+.control.has-icons-right .icon {
+  top: -5px;
+  left: -7px;
+}
+
+.container {
+  padding: 80px 15px;
+}
+
+@media screen and (max-width: 768px) {
+  .media-content {
+    overflow-x: inherit !important;
+  }
+}
+
+a.navbar-item {
+  background: transparent !important;
+}
+
+.no-margin {
+  margin: 0 !important;
+}
+
+.home {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.app-loader {
+  position: absolute;
+  top: 56px;
+  height: 4px !important;
+}

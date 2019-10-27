@@ -1,0 +1,22 @@
+$primary: #3880ff;
+$navbar-background-color: $primary;
+$background: #fafafa;
+$light: #fafafa;
+
+.is-primary {
+  background-color: $primary !important;
+}
+
+.is-light {
+  background-color: $light !important;
+  color: #111 !important;
+  border-top: 0.5px solid rgba(0, 0, 0, 0.4);
+}
+
+.rounded {
+  border-radius: 50%;
+}
+
+.container {
+  background: $background !important;
+}
